@@ -5,6 +5,7 @@
 > train.py  - Execução de treinamento importando a estrutura da cnn. <br>
 > app_64x64x3.py - Teste do modelo CNN treinado.<br>
 > cnn/__ init __.py  - Estrutura das camadas da CNN. <br>
+> models/ - Pasta com os modelos treinados
 
 #### Dataset utilizado
 Em breve será disponibilizado o dataset aqui neste repositório.
