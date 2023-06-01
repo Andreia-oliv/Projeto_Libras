@@ -7,8 +7,7 @@
 > cnn/__ init __.py  - Estrutura das camadas da CNN. <br>
 > models/ - Pasta com os modelos treinados
 
-#### Dataset utilizado
-Em breve será disponibilizado o dataset aqui neste repositório.
+
 
 #### Referências
 
