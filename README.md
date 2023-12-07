@@ -6,7 +6,9 @@
 > train.py  - Execução de treinamento importando a estrutura da cnn. <br>
 > app_64x64x3.py - Teste do modelo CNN treinado.<br>
 > cnn/__ init __.py  - Estrutura das camadas da CNN. <br>
-> models/ - Pasta com os modelos treinados
+> dataset - Pasta contendo as fotos dos três conjuntos diferentes de sinais de LIBRAS. <br>
+> models/ - Pasta com os modelos treinados. <br>
+> TCC_2DCNN-RECONHECIMENTO DE SINAIS DE LIBRAS.pdf - Trabalho de conclusão de curso. Link: https://ri.unir.br/jspui/handle/123456789/4971
 
 ### Dataset utilizado
 O dataset contém três conjuntos diferentes de sinais:
